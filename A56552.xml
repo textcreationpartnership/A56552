@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The door of salvation, opened: or, A voice from heaven, to unregenerate sinners Plainly shewing the necessity of opening your hearts to Christ, or else he will open Hells mouth to devour you. VVith many sweet invitations to come to him, that they might have life, and be hidden from the wrath of God, which is worse than death. Together with the dreadful condition of the stubborn and hard-hearted sinners. Dealing impartially with their souls, propounding blessing and cursing, life and death; salvation if you open to Christ, damnation if you refuse Christ. By T. P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56552</idno>
+            <idno type="STC">Wing P657A</idno>
+            <idno type="STC">ESTC R217112</idno>
+            <idno type="EEBO-CITATION">99828813</idno>
+            <idno type="PROQUEST">99828813</idno>
+            <idno type="VID">33245</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33245)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1932:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The door of salvation, opened: or, A voice from heaven, to unregenerate sinners Plainly shewing the necessity of opening your hearts to Christ, or else he will open Hells mouth to devour you. VVith many sweet invitations to come to him, that they might have life, and be hidden from the wrath of God, which is worse than death. Together with the dreadful condition of the stubborn and hard-hearted sinners. Dealing impartially with their souls, propounding blessing and cursing, life and death; salvation if you open to Christ, damnation if you refuse Christ. By T. P.</title>
+                  <author>Passenger, Thomas, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 20, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Passinger on London-bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T. P. = Thomas Passenger?.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Attributed to Thomas Passenger by Wing. An anonymous text reprinted many times with various authorship attributions; this is the earliest edition traced.</note>
+                  <note>Year of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Joe Kilduff</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Joe Kilduff</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33245:1" rendition="simple:additions"/>
+            <p>THE Door Of Salvation, OPENED: OR, A Voice from Heaven, to unregenerate Sinners.</p>
+            <p>Plainly ſhewing the neceſſity of opening your hearts to Chriſt, or elſe he will open Hells mouth to devour you.</p>
+            <p>VVith many ſweet invitations to come to him, that they might have life, and be hidden from the wrath of God, which is worſe then death.</p>
+            <p>Together with the dreadful condition of the ſtubborn and hard-hearted Sinners.</p>
+            <p>Dealing impartially with their ſouls, propound<g ref="char:EOLhyphen"/>ing bleſſing and curſing, life and death; Salvation if you open to Chriſt, Damnation if you refuſe Chriſt.</p>
+            <p>By <hi>T. P.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Mat.</hi> 4.1.</bibl> For the day is coming that ſhall burn as an Oven, and all the proud, yea, &amp; all that do wickedly shall be as ſtubble: and the day commeth that shall burn them up, ſaith the Lord, and shall leave them neither root nor branch.</q>
+            <p>Printed for Tho. Paſſinger on London-bridge.</p>
+            <pb facs="tcp:33245:2"/>
+            <pb facs="tcp:33245:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:33245:3"/>
+            <pb n="1" facs="tcp:33245:3" rendition="simple:additions"/>
+            <head>THE Door of Salvation opened.</head>
+            <epigraph>
+               <q>
+                  <bibl>Rev. 3.20.</bibl>
+Behold, I ſtand at the door and knock, if any man hear my voice, and open the door, I will come into him, and ſup with him, and he with me.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T hath pleaſed the moſt Wiſe Diſpoſer of all things, out of the riches of his free Grace, to tender Ieſus Chriſt to poor loſt and undone ſinners; and alſo it pleaſed the Lord Ieſus, not onely to dye for ſinners, to redeem them from Death, and the Curſe of the Law, that he might open the way for poor loſt ſinners to re<g ref="char:EOLhyphen"/>turn to God, but he is alſo pleaſed to ſtand knocking at the door of their hearts, to wooe, to beſeech, and intreat poor ſouls to be recon<g ref="char:EOLhyphen"/>ciled to God.</p>
+            <p>
+               <pb n="2" facs="tcp:33245:4"/>Theſe words now read, are very full of mat<g ref="char:EOLhyphen"/>ter, &amp; upon each word might almoſt be writ<g ref="char:EOLhyphen"/>ten an intire Volume, but my narrow ſcant<g ref="char:EOLhyphen"/>ling will not permit me to explain the terms, onely come to the main intended. I might hence raiſe many obſervations, but I ſhall name but one, and enſiſt on it.</p>
+            <q>
+               <p>
+                  <label>Doct.</label> That Jeſus Chriſt waits, and calls long upon Sinners, and earneſtly labours with them for admiſſion, he ſtands at the door and knocks.</p>
+            </q>
+            <p>A hundred and twenty years waited he upon the Old world, thirty years upon the <hi>Jews,</hi> forty years in the Wilderneſs by ſigns and wonders: theſe one hundred years well nigh hath he waited upon <hi>England;</hi> twenty years he waits upon one ſinner, forty years upon another: how often doth he ſay to us, <hi>Open to me my Siſter, my Love, my Dove, my undefiled, for my head is filled with dew, and my looks with the drops of the night,</hi> Cant. 5.2. Mat. 23.27. <hi>How often would I have gathered thy children, as a Hen gathereth her chickens, but ye would not:</hi> What do theſe paſſages hold forth, but the love of Chriſt? but to enlarge a little<g ref="char:punc">▪</g>
+            </p>
+            <p n="1">
+               <pb n="3" facs="tcp:33245:4"/>1. Chriſt gives not ſinners over, though they have given him no anſwer at all, though they lye in the bed of ignorance, and mind not the dignity of his Perſon, nor the heavenlineſſe of his voice, nor the excellency of his ſalvati<g ref="char:EOLhyphen"/>on; and though he call louder and louder, and knock harder and harder, <hi>Rom.</hi> 13.11. <hi>It is high time to awake out of ſleep, the night is far ſpent, the day is at hand,</hi> yet Chriſt waits ſtill to be gracious.</p>
+            <p n="2">2. Chriſt hath continued knocking, and calling, though ſinners have made light of his invitations: though the ſoul be lazy, and hath put off his Coat, and cannot put it on: and hath waſhed his féet, and is loath to de<g ref="char:EOLhyphen"/>file them, yet for all this Chriſt puts his hand by the hole of the Door.</p>
+            <p n="3">3. Chriſt hath not given over knocking, though ſinners have opened their mouths a<g ref="char:EOLhyphen"/>gainſt him, &amp; reviled him, yet he ſtands thruſt<g ref="char:EOLhyphen"/>ing at the poſts of ſinners hearts, &amp; he waits and labours much to reconcile the ſoul to God, he ſends his Miniſters, who entreat, and exhort, though all to no purpoſe.</p>
+            <p>But to give you the Reaſons why Chriſt is thus pleaſed to wait, to be gracious to ſuch graceleſs ſouls.</p>
+            <p>
+               <hi>Reaſ.</hi> 1. Chriſt continues knocking at the
+<pb n="4" facs="tcp:33245:5"/>
+ſinners heart, that he might glorifie his frée Grace, and rich Love, in converting ſome poor ſoul to himſelf, that the ſoul might be thereby brought to ſée the tender care of Chriſt, and his vehement deſire to beſtow himſelf upon him, that he might at length ſée the frée bounty of Chriſt, in his long calling: <hi>Open to me, open to me:</hi> that it might ſée Salva<g ref="char:EOLhyphen"/>tion to be had no where elſe; that the heart at length ſées it muſt open to Chriſt, or elſe it muſt periſh, that it might ſée its loſt conditi<g ref="char:EOLhyphen"/>on without Chriſt, that it might ſée Chriſts travellings and ſufferings, torments and tor<g ref="char:EOLhyphen"/>tures, and all to redéem and ſave him, who was loſt for ever without him.</p>
+            <p>
+               <hi>Reaſ.</hi> 2. Chriſt continues knocking and in<g ref="char:EOLhyphen"/>viting, that in the end he might gain the ſoul to eſteem him as the onely and deſireable ob<g ref="char:EOLhyphen"/>ject in the world, that the ſinner at length may confeſſe, it is better to let Chriſt in, then ſo keep Chriſt out: that the ſoul may ſee him whom he hath reviled, yea, crucified all his life; ſee him to be the ſwéeteſt Saviour, and the lovelieſt object in the world, and delight in him; and, as it were, be raviſhed with his Excellenctes.</p>
+            <p>
+               <pb n="5" facs="tcp:33245:5"/>
+               <hi>Reaſ.</hi> 3. Chriſt knocks long at the door of ſinners hearts, that thereby he might mag<g ref="char:EOLhyphen"/>nifie the glory of his Iuſtice in their utter ruine and deſtruction: for now, Oh ſoul, wilt thou be left without excuſe, thou ſtout Rebel, that ſtood'ſt it out againſt the Lord, that though he called again and again, thou waſt reſolved thou would'ſt not hear, though mercy were upon his knées before thée, and begged thée to give admiſſion to the Lord of life; yet impenitent thou were, and impenitent thou would'ſt be: miſerable thou wert, and miſe<g ref="char:EOLhyphen"/>rable thou wilt be: Therefore will be magni<g ref="char:EOLhyphen"/>fie the glory of his Iuſtice upon thee, and make thée ſmart to purpoſe, becauſe thou would'ſt not hear the voice of the Charmer, though he charmed never ſo wiſely: now you have no longer any cloak for your ſins: now take what falls, expect a reward according to your works: <hi>For the righteous Lord loveth righteouſneſs, but the wicked his ſoul hateth;</hi> as it is in the 11. <hi>Pſalm,</hi> 5, 6, 7. <hi>Verſes.</hi> No marvel now if the Lord rain fire and brim<g ref="char:EOLhyphen"/>ſtone, and an horrible tempeſt: for this ſhall be the portion of their Cup, who have deſpiſed the rich grace of God, and abuſed his Pati<g ref="char:EOLhyphen"/>ence and long ſuffering towards them; <hi>Mal.</hi> 4.1. <hi>For the day is comming that ſhall burn as
+<pb n="6" facs="tcp:33245:6"/>
+an Oven, and all the proud, yea, and all that do wickedly ſhall be as ſtubble, and the day com<g ref="char:EOLhyphen"/>eth that ſhall burn them up, ſaith the Lord, and ſhall leave them neither root nor branch.</hi> But to procéed to Application, the main thing in<g ref="char:EOLhyphen"/>tended: the Vſes I ſhall make are theſe thrée.</p>
+            <list>
+               <item>1. Exhortation to Sinners.</item>
+               <item>2. Terror and affrightment.</item>
+               <item>3. Incouragement: and then cloſe all with ſome directions</item>
+            </list>
+            <p>
+               <hi>Uſe</hi> 1. Of Exhortation, to exhort, and ſtir up, if it be poſſible, every ſecure ſinner, to ſtand it out no longer, but to ſet out your hearts, that the King of glory may enter in. Oh ſin<g ref="char:EOLhyphen"/>ner, now Chriſt is ſtanding, and calling to thy ſoul, <hi>If thou wilt hear and open, I will come in unto thee:</hi> now Chriſt is ſaying: I know thy works, I know well enough what thou haſt béen, and what thou haſt done: I know thou haſt béen a Blaſphemer, or a Drunkard, or a Whoremonger, or a Thief, or a Sabbath-breaker, and a Scorner: yet I ſtand at thy Door this day and knock, I will receive thée unto mercy, I will forgive thee all thy ſins, I will accept, I will heal, I will ſave thy ſoul, if thou wilt open thy heart this day unto me, and let me in: Oh brethren, for Chriſt his ſake refuſe not Chriſt, do not reject nor neglect ſo
+<pb n="7" facs="tcp:33245:6"/>
+great ſalvation, ſo ample a ſalvation, ſo wait<g ref="char:EOLhyphen"/>ing a ſalvation, leſt you periſh.</p>
+            <p n="1">1. Conſider the neceſſity you have of him<g ref="char:punc">▪</g> 
+               <hi>Give me Children, or elſe I dye,</hi> ſaith <hi>Rachel:</hi> Oh give me Chriſt, or elſe I periſh for ever. Can you be ſaved without Chriſt? and if you may have Chriſt but for opening the Door: <hi>Then while it is called to day, hear and open to him:</hi> if the door of Grace ſhould be ſhut, be<g ref="char:EOLhyphen"/>cauſe the door of thy heart is ſhut, thou would<g ref="char:EOLhyphen"/>eſt be ſhut up with a vengeance for ever.</p>
+            <p n="2">2. Conſider what anſwer thou wilt be able to make at the great day, if thou wilt har<g ref="char:EOLhyphen"/>den thy heart and not open, why, what wilt thou? why, what canſt thou plead for thy ſelf at the day of Iudgement? Wilt thou ſay, the Goſpel never offered thée Chriſt? Why, thou haſt heard this day, <hi>If any man will hear and open, I will come in and ſup with him:</hi> Wilt thou ſay, I would have opened my heart had it not béen for the love of ſin, or of eaſe, or of Liberty, or Honour, or Friends, or Companions: Oh how will Men and An<g ref="char:EOLhyphen"/>gels hiſs at thée: this is the Perſon who for Luſts ſake forſook his mercies, who for a little vanity rejected his own Salvation:
+<pb n="8" facs="tcp:33245:7"/>
+Oh how wilt thou curſe thy ſelf, that for no<g ref="char:EOLhyphen"/>thing, nay, for that which is worſe then no<g ref="char:EOLhyphen"/>thing, thou haſt put off Chriſt and his Salva<g ref="char:EOLhyphen"/>tion: therefore, men, brethren, and Fathers, hearken unto me; as <hi>Moſes</hi> ſaid to the <hi>Iſrae<g ref="char:EOLhyphen"/>lites,</hi> ſo this day propound I unto you, <hi>Bleſ<g ref="char:EOLhyphen"/>ſing and curſing, life and death, Salvation if you will open to Chriſt, and damnation if you refuſe Chriſt:</hi> Oh, for the Lords ſake, chuſe not curſing, but bleſſing; chuſe not death but life: chuſe not Hell but Heaven: chuſe not Sin but Chriſt: though you have formerly ſlighted him, if yet you will regard; though you have formerly contemned him, yet if you will priſe him, though you have formerly re<g ref="char:EOLhyphen"/>ſiſted, if yet you will yield, if yet you will conſent, if yet you will become willing to o<g ref="char:EOLhyphen"/>pen unto Chriſt, Chriſt will be yours, Mercy will be yours, and Salvation will be yours: and what would you have more? What, will not all this do? will not mercy allure you? will not love conſtrain you? then give me leave to reprove you, and affright you, if it be poſſible, out of thoſe depthe of Satan into which you are faln: however, I am reſolved whether you will or no, and the Lord faſten it upon your ſouls.</p>
+            <p>
+               <pb n="9" facs="tcp:33245:7"/>
+               <hi>Uſe</hi> 2. Of terrour to you who have no communion with Chriſt, that have refuſed to let in the king of Glory: Oh ſeriouſly lay to heart your unſpeakable miſery for ever. And here I know not how to begin: if <hi>non-com<g ref="char:EOLhyphen"/>munion</hi> with the Church of God, be ſo direful a curſe, that makes <hi>Cain</hi> cry out: <hi>Thou haſt driven me out this day from the face of the earth, and from thy face ſhall I be hid, I ſhall be a fugit ve and a vagabond on the earth, and every one that finds me will ſlay me, Gen.</hi> 4.14. Oh then what is <hi>non-communion</hi> with Ieſus Chriſt? <hi>Luther</hi> did profeſſe that he would not be in Heaven if God were not there, but he would rather chuſe to dwell in Hell if God were there. Oh ſoul, where wilt thou abide after death? let me beg thée to ask thy ſoul theſe Queſtions following.</p>
+            <p n="1">1. In the bowels of love and mercy, let me beg thée to ask thy ſoul this Queſtion: How long will this life, and the comforts of it laſt? thy ſoul is immortal and muſt never dye, but it muſt have being ſomewhere to all eternity: this worlds happineſſe, is it everlaſting? no ſurely, thy Money, and thy Corn, and thy Land, will do thée no good in the great day: Oh what haſt thou done for hereafter? what
+<pb n="10" facs="tcp:33245:8"/>
+haſt thou laid up for the world to come? is the door of thy heart open to Chriſt? Alas, is thy poor ſoul unmarried all this while?</p>
+            <p>
+               <hi>Q.</hi> 2. What will become of thée, when this life and the comforts thereof are gone? Oh thou hard-hearted ſinner, this broad way which thou walkeſt in, will never lead thée to the promiſed Land, thy gold and ſilver key, will never open heavens gate for thée, thy care for this worlds good, will not plead for thee before the Iudge: all thy careful friends and acquaintance with whom thou haſt ſpent ſo many jolly hours, their good word will ſtand thée in no ſtead: then thou wilt be ready to cry: Oh where is the Chriſt that I have deſpiſed? O where is the Ieſus that I have re<g ref="char:EOLhyphen"/>ſiſted; will he plead for me? No ſurely, but go to the Gods whom thou haſt choſen: Oh, what will become of me? muſt I not dye? Oh whither will death carry me? into which of the Regions of the world will my death land me? either of light or darkneſs? to which of theſe two Regions am I now travelling? certainly the way of pleaſure or worldly pro<g ref="char:EOLhyphen"/>fit, the broad way of the world, it is not the way to tranſport me to heaven, and everlaſt<g ref="char:EOLhyphen"/>ing happineſs: ſay, Oh ſinner to thy ſoul,
+<pb n="11" facs="tcp:33245:8"/>
+what, muſt I be taken from all my glory and greatneſſe: from all my delights and dalli<g ref="char:EOLhyphen"/>ances, and be thrown like <hi>Lucifer,</hi> ſon of the Morning, from all my brightneſs, into black<g ref="char:EOLhyphen"/>neſs of darkneſs for ever: when death hath cloſed my eyes, muſt I awake in everlaſting flames? I ſinner, thou ſhalt without remedy, unleſs thou open to the Lord Ieſus Chriſt.</p>
+            <p>
+               <hi>Q.</hi> 3. Ask thy ſelf on which hand thou art like to ſtand in the day of Iudgement: on the Right hand, or on the left, among the Sheep, or among the Goats: if thou wilt not hear and open now: if thou wilt not open thy heart now; be aſſured the Devil will open Hells mouth for thée: what will be the end of thoſe joys, which now ſo make glad thy heart? you who are in the broad way to deſtruction, and utter ſeparation from Gods preſence for ever: thy pleaſures here we may judge of: Oh, but who can tell the thouſandth part of thoſe fiery torments, to which thou art liable in the other world: whilſt thou liveſt here thou art a curſed ſinner; and when thou dyeſt thou ſhalt be a Damned Creature: whilſt thou liveſt, thou art fed like a Beaſt, by common Providence, and art a meer ſtranger to ſaving Promiſes: if
+<pb n="12" facs="tcp:33245:9"/>
+thou lookeſt upwarde, God is frowning, and his wrath is revealed from Heaven againſt thee, <hi>Rom.</hi> 1.18. The Heavens and their Hoſts are ready every moment to diſcharge Gods curſes, like Thunder-bolts againſt thee: if thou lookeſt downwards, thou maiſt ſee Hell gaping and opening its mouth to ſwallow thee up quick, many dangers attend thee every day, many miſeries every moment, Legions of Devils ſtand about thee, watch<g ref="char:EOLhyphen"/>ing for thee, and waiting only for leave from God, to drag thy ſoul into the Lake of Fire: Ah, when thou dyeſt man, what muſt thou then do? when that Captain death ſtrikes, whole Armies of Wolves will fall upon thée: look to it, and remember thou waſt once war<g ref="char:EOLhyphen"/>ned, for if thou dyeſt naturally, before thou liveſt ſpiritually, thou dyeſt eternally; Saint <hi>Auguſtine's</hi> Prayer was, <hi>O Lord, hack Me, hew Me, burn Me here, but ſpare Me hereafter:</hi> as long as thou refuſeſt to hear Chriſts voice, thou haſt a Hell upon earth: it is not the mul<g ref="char:EOLhyphen"/>titude of thy Companions that go thither, ſhall any whit leſſon thy torments, but ra<g ref="char:EOLhyphen"/>ther encreaſe them; thy life, that hath been full of worldly joy, ſhall end in deadly woe.</p>
+            <p>All you into whoſe hands this little Book ſhall come, Oh let me beg you to conſider in
+<pb n="13" facs="tcp:33245:9"/>
+thoſe bowels of love you have to your own ſouls, how your hearts can endure to think of being ſhut out of Heaven, out of bleſſedneſſe for ever: Aſk your hearts theſe queſtions: Can I burn? can I endure the vengeance of eternal Fire? Will boiled Oyl, burning Brimſtone, ſcalding Lead, a glowing Oven, a ſcorching Furnace, be an onlie Lodging for me? Oh why, oh my ſoul, wilt not thou now be perſwaded to repent? is there too much pain in that? thou art ready to ſay, thou canſt not bear a Croſſe, or an affliction, a Scoff or a Reproach: talk to thee of Crucifying the fleſh, of parting with thy Luſt, with thy worldly Companions, of entring in at the Straight gate; O theſe are hard ſayings, who can bear them? but how wilt thou do to dwell with devouring fire? how wilt thou dwell with everlaſting burnings? whatſo<g ref="char:EOLhyphen"/>ever thou thinkeſt now, think what Hell will be, when the day comes thou muſt deſcend in<g ref="char:EOLhyphen"/>to it; thou canſt now drink or laugh away the fear of it, but what will it be to thée when thou féeleſt thy ſelf wrapped up in the flames of it, and not a drop of water left to cool thy tongue; think on hell, oh Soul, and then think on Chriſt, and conſider if a Redeemer from ſuch miſery be not worth the accepting: think
+<pb n="14" facs="tcp:33245:10"/>
+on Hell, and then think on Sin, and Carnal Pleaſures and Delights: and conſider how they will reliſh with thée, when thus ſalted with everlaſting fire: are theſe the price for which thou ſelleſt thy ſoul to Hell: Oh bid theſe luſts and pleaſures be gone: bid your Companions in ſin be gone, and though you loved them well, yet tell them you muſt not burn for them, that you will not damn your ſouls to pleaſe your fleſh.</p>
+            <p>Having thus as briefly as may be, laid down the uſe of terrour, which I hope will a<g ref="char:EOLhyphen"/>waken ſome poor ſoul out of the depth of ſe<g ref="char:EOLhyphen"/>curity: I proceed to the laſt uſe of incourage<g ref="char:EOLhyphen"/>ment: to incourage poor Sinners to ven<g ref="char:EOLhyphen"/>ture to lay hold on him, before it be too late.</p>
+            <p>
+               <hi>Uſe</hi> 3. Oh poor ſoul, haſt thou kept Chriſt out a long time, and art thou not yet reſolved to open thy heart to him? what ſhall I ſay to thee? let me ſay this, Chriſt waits ſtill for thee: Chriſt is willing ſtill to receive thee: then why wilt thou undo thy ſelf by neglect<g ref="char:EOLhyphen"/>ing ſo great ſalvation? let the conſideration of the Meſſage Chriſt brings you, of the er<g ref="char:EOLhyphen"/>rand he comes on, it is not a diſmal word he
+<pb n="15" facs="tcp:33245:10"/>
+brings? is it not a dreadful errand if Chriſt had come to deſtroy thy ſoul? could he have had leſs welcome then you give him? Oh for your ſouls ſake receive him, enter<g ref="char:EOLhyphen"/>tain him, for there is great comlineſs in him: O ye fools, when will ye be wiſe? come unto Chriſt, and he will have mercy on you, he will heal all your back-ſlidings, and love you fréely. But ſome poor ſoul will be ready to ſay, I have a deſire to come to Chriſt, but I am afraid Chriſt will never receive ſuch a wretched ſinner as I, who hath ſtood it out ſo long againſt him. For anſwer to this, give me leave to give you ſome few Directions.</p>
+            <p n="1">1. Ah poor ſoul, art thou willing to come to Chriſt? then will Chriſt in no wiſe caſt thee out: if thou comeſt to him poor, miſerable, blind and naked; Oh ſinner come not to him in thy own ſtrength, but come thus, and ſay: O Lord, here is a poor ſoul, not worth a far<g ref="char:EOLhyphen"/>thing: Oh Lord make me rich in Faith; Oh Lord here is a miſerable ſoul, Lord ſhew mer<g ref="char:EOLhyphen"/>cy to me: Here is a poor blind ſoul, Oh Lord enlighten me from above: here is a poor nak<g ref="char:EOLhyphen"/>ed Wretch: O Lord cloath me with thy Sons Righteouſneſs: Oh Lord help me, Oh Lord ſave me, leſt I periſh, for I cannot help my ſelf.</p>
+            <p>
+               <pb n="16" facs="tcp:33245:11"/>
+               <hi>Direct.</hi> 2. Come to Chriſt by believing in him; Ah when thy poor ſoul is ſinking head<g ref="char:EOLhyphen"/>long to Hell, and thou ſeeſt no way to eſcape the fearful wrath of God hanging over thy head, catch thou then at ſuch a time, faſt hold on Chriſt: O then apprehend and apply all his benefits to thy poor ſoul: come this way and graſp him in the arms of thy faith, and ſay: <hi>O Lord I believe on thee, help thou my unbelief:</hi> and the anſwer which the Lord will give thee, will be this: <hi>Be it according as thou wilt.</hi> Let Chriſt be in your hand, and the promiſe in your eye, and no doubt, though thou haſt been a Rebel, and Traitor, yet Ieſus Chriſt having received gifts for the Rebellious, will ſhew mercy to thee, and re<g ref="char:EOLhyphen"/>ceive thee.</p>
+            <p>
+               <hi>Direct.</hi> 3. Come to Ieſus Chriſt by repent<g ref="char:EOLhyphen"/>ing, and forſaking all thy ſins, thou canſt ne<g ref="char:EOLhyphen"/>ver come to the Wedding Supper without the Wedding Garment; the old man muſt be done away, before all things can be made new, <hi>Jer</hi> 4.14. <hi>Oh Jeruſalem, waſh thy heart from wickedneſs, that thou maiſt be ſaved, Ezek.</hi> 18.31. <hi>Make you a new heart, for why will you dye? Act.</hi> 17. Saith St. <hi>Paul</hi>
+               <pb n="17" facs="tcp:33245:11"/>
+to the Iaylor, <hi>Repent and be Baptized, &amp; thou ſhalt be ſaved, and thy houſe.</hi> Chriſt will ne<g ref="char:EOLhyphen"/>ver enter into an unclean heart: Oh get thy heart waſhed by the tears of true and hearty repentance, and then Chriſt will come in and dwell with thee.</p>
+            <p>By this time I hope you ſee your abſolute neceſſity of cloſing with Chriſt, and of open<g ref="char:EOLhyphen"/>ing the door to him; and having given you ſome directions ſuffer me now in the conclu<g ref="char:EOLhyphen"/>ſion, to perſwade you by all the bowels of love and mercy, which Chriſt doth exerciſe to<g ref="char:EOLhyphen"/>wards you: if Chriſt had come to deſtroy your ſouls, he could not have had leſs welcome: will not you believe Chriſt? Will you neither believe his Meſſengers? If the Miniſters of the Goſpel had béen Meſſengers ſent up from the bottomleſs pit to deceive Nations, to de<g ref="char:EOLhyphen"/>ſtroy ſouls, to drag them down to everlaſting darkneſs, there could hardly have been a greater hate and out-cry againſt them: Oh, hath Ieſus Chriſt ſweat, &amp; groaned, &amp; travel<g ref="char:EOLhyphen"/>led, and laboured in pain, &amp; all to bring forth a Lye: Did he dye to purge, and cleanſe, and waſh his people, and when all comes to all, it is but a cheat? what do you mean ſinners by your wilful neglect? ſée what's the reaſon of this abuſe of Gods grace, and mercy, and
+<pb n="18" facs="tcp:33245:12"/>
+patience, comes it not from ſin? Oh 'tis ſin hath made men Devils Devils againſt God, Devils one againſt another, there is not one ſinner, but if God ſhould pull up the ſluces, and let his wickedneſs have its full courſe, he would do his utmoſt to damn all the world: Oh friends, let me beg you to conſider <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ſin hath done: go to Mount <hi>Calvary,</hi> and ſee what it hath done there: what was it that ſlew the Lord of Glory, that put Chriſt to death? was it not thoſe ſins which were laid upon him? Theſe were his betrayers, his Murderers: theſe were the thorns, the nails, the ſpear that wounded him: let the ſweat, the cries, the groans, the blood, the ſoul that was preſſed and poured out by ſin, let theſe ſpeak. Turn aſide from Mount <hi>Calvary,</hi> and go down to the Valley of <hi>Hinnom,</hi> lay your ear to the mouth of <hi>Tophet,</hi> and hear<g ref="char:EOLhyphen"/>ken: Oh poor ſoul, what work ſin hath done there: What is it that hath filled Hell ſo full already? What ſent down <hi>Cain, Judas,</hi> and <hi>Ananias</hi> and <hi>Saphira,</hi> with thoſe millions of damned ſouls that are already tormented in thoſe flames: ſtand and admire, Oh that thou art not there to bear them company: 'tis meerly the mercy of God, that ſpareth thee: Oh therefore be not high-minded but
+<pb n="19" facs="tcp:33245:12"/>
+fear: Did God damn ſo many ſouls for no<g ref="char:EOLhyphen"/>thing or for a trifle, inflict ſo great torments for ſo ſmall offence: what was it that caſt them thither? was it their righteouſneſs, or rather was it not their iniquities? If you ſtep down to thoſe Chamb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs of death, and ask thoſe wretched creatures; Friends, how came you in hither? what would they anſwer? Oh it is our ſins brought us into this place of torment: O ſaies one, 'twas my covetouſneſs brought me hither, Oh ſaith another 'twas my lying brought me hither: O ſaith a third, 'twas my Pride, and Wantonneſs, and Sloathfulneſs: Oh ſin, ſin, ſin: this is that for which we burn, we roar, we rave, we dye, we dye eternally: Oh therefore ſinners, deſpiſe the riches of his grace no longer, leſt his wrath break forth, and he tear you in pieces, and there be none to help: but let me beg you to open the door of your hearts, that the King of glory may enter in: take the Yoke of Chriſt upon you, for that is eaſie, and his Burden, for that is light: Waſh your heart from your iniquities, that you may be ſaved: Oh how long ſha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l vain thoughts lodge with<g ref="char:EOLhyphen"/>in you? And my prayer to God for you ſhall be, <hi>That the God of peace would ſanctifie you wholly:</hi> And I pray God, <hi>That your whole
+<pb n="20" facs="tcp:33245:13"/>
+Spirits, Soul and Body, may be preſerved blameleſs, unto the coming of our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt.</hi>
+            </p>
+            <epigraph>
+               <q>Now the God of Peace make you perfect in every good work, to do his will, working in you that which is well-pleaſing in his ſight: that after you have run with joy, the Race that is ſet before you, you may poſſeſs a Kingdom, and a Crown, which is incor<g ref="char:EOLhyphen"/>ruptible, which fadeth not away, reſerved in Heaven for you.</q>
+            </epigraph>
+            <closer>
+               <signed>T. P.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:33245:13"/>
+            <head>Courteous Reader, Theſe Books following are ſold by <hi>Tho. Paſſinger,</hi> at the three Bibles on London-Bridge.</head>
+            <list>
+               <item>THe Wiſe Merchant: Or, The Peerleſs Pearl<g ref="char:punc">▪</g> By <hi>T. Calvert,</hi> Miniſter of Gods Word in the City of <hi>York.</hi>
+               </item>
+               <item>The Chriſtians Combate: or, His true Spiri<g ref="char:EOLhyphen"/>tual Warfare. By <hi>C. Love,</hi> late Miniſter of Gods Word in the City of <hi>London.</hi>
+               </item>
+               <item>The Book of Graces, with Prayers for Mor<g ref="char:EOLhyphen"/>ning and Evening: All but three pence a piece.</item>
+               <item>The Sinners Warning-piece: Or, Heavens Meſſenger. By <hi>Tho. Robins</hi> B of D.</item>
+               <item>Mans Chief guide to Salvation. By <hi>T. R.</hi> B. of D.</item>
+               <item>The Scholars Winter Garment: Or, The Garment of Righteouſneſs. By <hi>T. R.</hi> Batche<g ref="char:EOLhyphen"/>lor of Divinity.</item>
+               <item>A wonder of wonders: Or, Gods People the VVorlds wonder. By <hi>R. Hough.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:33245:14"/>
+                  <hi>Englands</hi> Golden Legacy: Or, A brief de<g ref="char:EOLhyphen"/>ſcription of the Mercies of God beſtowed up<g ref="char:EOLhyphen"/>on <hi>England.</hi> By <hi>L. P.</hi>
+               </item>
+               <item>Gods Meſſage from Heaven to Sinners on Earth. By <hi>T. P.</hi> B. of D L.</item>
+               <item>The School of Learning: Being Prayers for Morning and Evening for every day in the week, with Graces before and after Meat, and a ſhort Catechiſm for Children.</item>
+               <item>The Vertuous wife is the glory of her Hus<g ref="char:EOLhyphen"/>band; Being a new Book, ſhewing the rare qualities of the truly vertuous woman.</item>
+               <item>Chriſt upon the Croſs ſuffering for ſinners, By <hi>S. S.</hi>
+               </item>
+               <item>Now or Never: work out your Salvation with fear and trembling, &amp;c.</item>
+               <item>Gods call to unconverted ſinners.</item>
+               <item>The School of Patience.</item>
+            </list>
+            <p>
+               <hi>Theſe twelve laſt are but two-pence a piece, and very ſeaſonable for theſe ſinful times in which we live.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33245:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
